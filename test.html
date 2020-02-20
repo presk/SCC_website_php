@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<script src="./JS/jquery-3.4.1.min.js"></script>
+	<title>jQuery Test</title>
+	
+	<style>
+		a.test {
+			font-weight: bold;
+		}
+	</style>
+
+</head>
+<body>
+	<script>
+		$( document ).ready(function() {
+		
+			$("a").click(function(event){
+
+				event.preventDefault();
+
+				$(this).hide("slow");
+			});
+
+
+		});
+
+	</script>
+</body>
+	<a class="test" >Test</a>
+</html>

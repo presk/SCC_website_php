@@ -1,0 +1,2 @@
+CREATE USER IF NOT EXISTS 'hrc353_2'@'localhost' IDENTIFIED BY 'er5Dbn';
+GRANT ALL PRIVILEGES ON hrc353_2.* TO 'hrc353_2'@'localhost';

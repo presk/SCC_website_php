@@ -1,0 +1,15 @@
+DROP TABLE system_config;
+DROP TABLE organizations;
+DROP TABLE debit_details;
+DROP TABLE event_content;
+DROP TABLE group_content;
+DROP TABLE event_participants;
+DROP TABLE group_participants;
+DROP TABLE requests;
+DROP TABLE user_groups;
+DROP TABLE content_comments;
+DROP TABLE content;
+DROP TABLE messages;
+DROP TABLE events;
+DROP TABLE users;
+DROP TABLE roles;

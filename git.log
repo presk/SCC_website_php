@@ -1,0 +1,266 @@
+*   7c0da9c : Merge branch 'dev'
+|\  
+| * 5c6d447 : Update data.sql
+* | cf2bdfb : Update DB.php
+|/  
+* 8063084 : Revert "ENCS credentials"
+* d11d1cd : ENCS credentials
+* 0a19dd4 : Promotions
+* be9cf31 : updated event page
+* 51c6a89 : updated event page
+* 72585a7 : updated event page
+*   14fcdab : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\  
+| * 37f6c01 : cant delete if not group manager
+| * d45b106 : event doesnt show delete for non managers
+| *   95b1c7b : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\  
+| * | a471289 : added event deletion in management
+* | | 7b3e1be : Create events
+| |/  
+|/|   
+* | dcbdd32 : Group quit
+|/  
+* cd33918 : event_management
+* c0b72c2 : fixed event_main
+* 3fd7c63 : event_management update
+* c5ab7a0 : ENCS credentials
+* 2936604 : updated events page
+* 36ce2ed : updated event page
+* 8c453f8 : Table name change
+* ddeb2f2 : Update home.php
+* 22415d2 : Update event_main.php
+* 6affedb : fixed merge issues
+*   f7a5c69 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\  
+| * 433269f : More css for event_main + event_id
+| *   ff021e1 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\  
+| * | c99b91a : CSS updates to event pages
+* | | 79acf1a : updated event View
+| |/  
+|/|   
+* | d5434f6 : Fixed set_charges
+|/  
+* 82352a7 : controller role to set event fees
+* 1fa8968 : added getAllEvents() method
+* 9f82573 : Small bug in cancel button on inbox
+*   9665415 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\  
+| * 95a9973 : Update .gitignore
+| * 1e6419c : Update navadmin.php
+| *   d0494f9 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\  
+| * | c9c47ca : completed user_management
+* | | 422d9c7 : Soft delete and archive delete on inbox added, added to database
+| |/  
+|/|   
+* | cb75655 : Small error on inbox.php
+* |   ec5f734 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\ \  
+| |/  
+| * 523b1ca : user_manager update
+| *   39d1527 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\  
+| * | e462047 : user_management update
+* | | 7888b40 : Inbox is setup to Recieve, Send and Delete Sent messages
+* | |   e2b0a27 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\ \ \  
+| | |/  
+| |/|   
+| * | 1f13b07 : Update event_edit.php
+| * |   54ad150 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\ \  
+| | * \   957a73e : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| | |\ \  
+| | | |/  
+| | | *   eca6d5d : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| | | |\  
+| | | * | db64f71 : created user_management
+| | * | | 82c2df0 : Update User.php
+| | | |/  
+| | |/|   
+| | * | 2880170 : Group and Event deletion
+| | |/  
+| | * 7c7f720 : controller conflicts
+| | * fb4d4e9 : Update navadmin.php
+| | *   1539147 : Merge branch 'dev-account-controller' into dev
+| | |\  
+| | | * a6e47d4 : Account info update
+| * | | 8b85b4c : implemented Add/Remove user from Event_edit page
+| |/ /  
+| * | 452ac16 : Updated the option value in the list to use the userID
+| * | cd27abc : Updated drop-down list logic with comments for clarification
+| * | 10c6941 : Added drop-down User list in event_edit
+| * | 9f477df : Update event_main.php
+| * | 0a2b5a6 : footerupdate
+| * | 9e6861b : Added navbar for admin/controllers
+| * |   90bdd25 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\ \  
+| | |/  
+| | *   ccd853e : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| | |\  
+| | * | d52be7e : Update data.sql
+| * | | eaa49b8 : Update account.php
+| | |/  
+| |/|   
+| * | 1d339a0 : msg consistency
+| |/  
+| *   7e7c4a4 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\  
+| | * bb2381f : content feed in home
+| | * 8724b29 : Update Content.php
+| * | c896afc : Fixed account to show the proper names
+| |/  
+* | 844a920 : Working on inbox
+|/  
+* 614b749 : fix merge
+* c331246 : added managed events to group creation
+* b1639e8 : show groups participated
+* 0f03c7f : small fixes to sesion_start()
+* 214f350 : Added Group functionality
+*   9358fbb : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\  
+| * c9f690e : Update inbox.php
+| * c969f5c : added navbar for controller/admin, inbox and fixes
+| * e6d7615 : Update data.sql
+| * c6665ca : Update data.sql
+| * 27ad1ca : Update data.sql
+| * 33a1b7e : Update data.sql
+* | ce4b67f : added jQuery lib
+|/  
+*   3f65d8d : Prep for merge
+|\  
+| * a4fe4ba : fixed GetParticipantByEventId method and added participant list to event_edit
+| * bc34b1f : Trying to debug event_main buttons
+* | 0951b12 : Added post deletion, added post comments and deletion
+|/  
+*   36ec20c : Fixed test.php for merge
+|\  
+| * e73e6a3 : Update Group.php
+| * 905f7dd : Get managed groups
+| *   0b50b49 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\  
+| | * 9c99226 : Fixed controller call for getAllUserParticipatingEvents
+| * | edcedeb : Get groups by event id
+| |/  
+| *   4e10c7f : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\  
+| | * d265ca3 : Initialized event_edit view page
+| | *   f3bae96 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| | |\  
+| | * | e78e83a : Both ParticipatingEvents & MangedEvents methods work
+| * | | c4a5a75 : Groups by user id
+| | |/  
+| |/|   
+| * | 7815fe0 : Modififed Home
+| * |   7ae4165 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\ \  
+| | |/  
+| | * 47ea6f0 : Fixed GetAllUserManagedEvents method in Models
+| * | 9ec6fb0 : Fixed some paths/Work on Home
+| |/  
+* | fe5c213 : Started working on content comments
+|/  
+* 74db36d : Fixed some Event logic, removed Event/ view folder
+*   bae71c3 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\  
+| * feb1130 : System config db methods
+* |   cc5bc1a : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\ \  
+| |/  
+| * 6f5214d : Role db methods
+| * fa32efb : Request handling
+* | cf25586 : Commit Group.php before merge
+|/  
+* bdfb19b : Update Message.php
+* a7d767a : Update Message.php
+* 826720a : Organization db methods
+* af48f20 : Messages db ops
+* b9c0889 : DebitDetails db operations
+*   64eaaa8 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\  
+| * c65f0f5 : Small updates. Need to test returned events obj more
+| *   6a179d1 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\  
+| * \   42521e3 : Merge branch 'dev-event_edit' into dev
+| |\ \  
+| | * | cf58fcc : Update Event.php
+| | * | 7b0b863 : Updated to fit MVC better
+* | | | f7e4359 : Forgot to remove id from Content constructor
+| |_|/  
+|/| |   
+* | | e5f9d77 : ContentComments db interaction
+* | | 1d9a91b : Moved GetContent methods to Content.php
+|/ /  
+* | e5adfc7 : Update Group.php
+* |   6c8bda3 : Merge branch 'dev-remodel' into dev
+|\ \  
+| * | ccca7e0 : Event save()
+| * | 11eb907 : Insert Event
+| * | f6c081d : Event DB methods, model deletions
+* | | 7f50e85 : Users can now create posts
+|/ /  
+* |   cacad99 : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+|\ \  
+| * | 1c0dc2d : Script fixes
+* | | e8ff278 : Group creation
+|/ /  
+* | 596ec9f : db-init.sql content table fixed
+* | 9776dcf : fixed user model
+* |   c091c8d : Merged dev-groups
+|\ \  
+| * | 9d4b5f5 : Added group.php page to view all groups, Group model is mostly complete, single_group.php in progress
+* | |   6c47713 : Prep for dev-groups merge
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 34e46a5 : added sql script from implementation details
+| * | 85d4352 : Added setters
+| |/  
+| *   a2a052d : Merge branch 'dev' of https://github.com/OliRac/COMP353-Project into dev
+| |\  
+| | * c559530 : Millionth attempt at fixing DB.php
+| * |   ed3955b : Merge branch 'dev-event_lifetime' into dev
+| |\ \  
+| | |/  
+| |/|   
+| | * d847a16 : Event table modifications
+| * | 0f3ccc8 : fixed proper path for logo
+| * | ee8f9c9 : removed comments and added proper nav bar
+| |/  
+| * 7bf503e : Merge LS_Events into Dev
+| *   e604f04 : Update .gitignore
+| |\  
+| | * ec73393 : Formatting
+| | * a34b891 : Initial form of the Event manager page
+| | * 3ea1ac8 : Added event_edit page
+| | * 8074e57 : Event
+| * | c2e2c56 : Create .gitignore
+| * | fe3128b : Modified model
+| * | 797432e : credentials fix
+| * | c4b5208 : initial push
+| |/  
+* | 3e6fabb : Changed User model to Active Record pattern, started Groups
+|/  
+*   2fd954f : Merge branch '4-php-data-model' into 5-sql-scripts
+|\  
+| * 6edb3d7 : Modified register and account mainly
+| * ead1a57 : fixed typo
+| * a7cf016 : All of em done
+| * 6ef8ea6 : Completed the user sessio, split the header and footer, user registration works, user login and sessions work.
+| * d50dd5b : Added some bulma styling
+| * d95d427 : Refactored the code base for a static site, started Sessions
+| * 16577aa : Database class singleton created
+| * c25f1dc : Starting working on Database connector class
+| * d527979 : Added db-init script in SQLScripts
+| * 7aeeccb : Initial commit of basic MVC
+* 4d029c6 : Added some data
+* dc27b43 : dp-init not null, some db data
+* 0b31464 : Update drop-tables.sql
+* b335030 : Update drop-tables.sql
+* 5607393 : proper drop order
+* 3d24f1a : re-ordering drops
+* e87031f : Create drop-tables.sql
+* 1169ed3 : DB init script
+* 0c0cdcb : Initial commit
